@@ -85,16 +85,16 @@ statefulset. These percentage differences are negligible.
 
 ### Customization and configuration
 
-The number of OTel users who build their own Collector increased to 46% (+13%).
-Out of these 55 builders of their own Collectors, 47 (86%) use the OpenTelemetry
-Collector Builder (in comparison with 80% last year), and 21 (~25%) of users
+The number of OTel users who build their own Collector increased to 43% (+10%).
+Out of these 41 builders of their own Collectors, 33 (81%) use the OpenTelemetry
+Collector Builder (similar to 80% of last year), and 7 (~17%) of users
 reported the Collector Builder to be hard to use, against just 2 last year.
 
-It is also important to note that only 39% of the respondents confidently agreed
-that the Collector Builder is easy to use, leaving 61% saying either neutral or
-hard to use (signaling a lot of room for improvement).
+It is also important to note that 54% of the respondents confidently agreed
+that the Collector Builder is easy to use, leaving 46% saying either neutral or
+hard to use (signaling a room for improvement).
 
-![image6](build-own-collector.png) ![image7](otel-use-collector-builder-n55.png)
+![image6](build-own-collector.png) ![image7](otel-use-collector-builder-n41.png)
 ![image8](use-otel-collector-builder.png)
 
 ### Monitoring and observability
